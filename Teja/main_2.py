@@ -6,7 +6,7 @@ import os
 # Import necessary classes and functions
 sys.path.append('/home/tejaswini/Documents/VSCODE/Mine/GEN AI/RAG/pinecode')
 from chatbot_python import chat
-from text_vects import vectors
+from utilis.text_vects import vectors
 from constants.model import embedding_model
 from database.retrive_data import QdrantSearcher 
 
