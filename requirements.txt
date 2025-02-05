@@ -1,0 +1,26 @@
+# for chatbot and fast_api
+
+# langchain-openai
+# langchain-core
+# langchain-community
+# streamlit
+# python-dotenv
+# fastapi
+# uvicorn[standard]
+# langserve
+
+# for pinecode
+
+PyPDF2
+python-docx
+sentence_transformers
+# chromadb
+# pinecode-client
+qdrant-client
+# install PyMuPDF  # For PDF text extraction (if you're working with PDFs)
+sentence-transformers  # For sentence embeddings
+langchain-openai
+langchain-core
+langchain-community
+streamlit
+
